@@ -1,8 +1,4 @@
-\$proto = "https" + "://"
-\$hostName = "github" + ".com"
-\$repoUrl = proto + hostName + "/gautam1921-batman/distributed-raft-engine"
 
-\$readme = @"
 # Distributed Raft Consensus Engine (Zero-Dependency Python)
 
 A fault-tolerant **Distributed Raft Consensus Engine** and **Replicated Key-Value Store** built from scratch in Python using only the standard library (`asyncio`, `socket`, `json`, `struct`, `random`, `time`).
